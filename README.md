@@ -4,7 +4,9 @@
 UYGULAMA SORUSU :
 Sınav not aralıklarını kullanıcıdan TABBAR kullanarak alan ve sonrasında yeni bir sayfa aracılığıyla kullanıcıdan aldığı nota göre harf notunu ekrana mesaj ile gösteren bir uygulama geliştirilmiştir. 
 1.	Sırasıyla aşağıdaki ekran görüntülerini tasarlayınız;
+
 ![image](https://user-images.githubusercontent.com/5441882/116509306-b9904780-a8cb-11eb-858a-93b86ecf962e.png)
+
 a.	Yandaki görselde bulunan hiyerarşiye uygun olacak şekilde 3 adet dart dosyanız bulunsun (Main dart sınıfından Ana Sayfa dart sınıfını çağıracak şeklinde çalışsın).
 b.	Tabbar widget’a ait şekillerdeki gibi 3 adet TabbarView Widget kullanılacaktır.
 c.	Her bir tabbar view geçişinde o sayfadaki işlemler hakkında bilgi veren birer Toast mesaj kullanınız (gerekli .yaml dosyasını göndermeyi unutmayınız). Ekranlarda görülen mesajlar için bire bir metin kutularını algoritmalarıyla birlikte tasarlamayı unutmayınız. 
