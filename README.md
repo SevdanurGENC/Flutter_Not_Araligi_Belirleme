@@ -27,15 +27,15 @@ b.	3. tabbar view ekranındaki butona tıklatıldığında kullanıcıdan alına
 c.	Hesapla sayfasında butona tıklatıldığında kullanıcıdan alınan not girişi bir önceki sayfadan gelen değerlerle birlikte algoritma içerisinde karşılaştırılacak ve sonucu bir AllertDialog ile şekilde görüldüğü gibi ekrana yansıtılacaktır. 
 d.	0 ve 100 aralığı haricinde herhangi bir değer girişi yapıldığında kullanıcıya uyarı verilmelidir. 
        
-![image](https://user-images.githubusercontent.com/5441882/116509318-bf862880-a8cb-11eb-8485-c6678eb1e0fb.png)
+![image](https://user-images.githubusercontent.com/5441882/116512300-7e444780-a8d0-11eb-8d6c-80157f25b0bf.png)
 
-![image](https://user-images.githubusercontent.com/5441882/116509323-c14fec00-a8cb-11eb-8af0-99aaa70f8bea.png)
+![image](https://user-images.githubusercontent.com/5441882/116512309-8308fb80-a8d0-11eb-864f-078647cf4cdf.png)
 
-![image](https://user-images.githubusercontent.com/5441882/116509327-c319af80-a8cb-11eb-9803-12d45f7bd0e5.png)
+![image](https://user-images.githubusercontent.com/5441882/116512325-89977300-a8d0-11eb-9c2f-995e5335ee51.png)
 
-![image](https://user-images.githubusercontent.com/5441882/116509333-c4e37300-a8cb-11eb-9328-acb33a4841ab.png)
+![image](https://user-images.githubusercontent.com/5441882/116512347-8ef4bd80-a8d0-11eb-97a9-c1762bd74c27.png)
 
-![image](https://user-images.githubusercontent.com/5441882/116509334-c6ad3680-a8cb-11eb-87ca-b2d34602de9f.png)
+![image](https://user-images.githubusercontent.com/5441882/116512362-94520800-a8d0-11eb-8284-c9032d4c3b15.png)
        
     
 3. Lütfen tüm ekran durumlarını ve algoritmalarını görselde olduğu gibi birebir tasarlayınız, değişikliğe gitmeyiniz. Not aralıklarını aşağıdaki tabloya göre algoritmasını geliştiriniz.
