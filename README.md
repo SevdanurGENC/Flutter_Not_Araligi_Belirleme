@@ -12,13 +12,13 @@ b.	Tabbar widget’a ait şekillerdeki gibi 3 adet TabbarView Widget kullanılac
 c.	Her bir tabbar view geçişinde o sayfadaki işlemler hakkında bilgi veren birer Toast mesaj kullanınız (gerekli .yaml dosyasını göndermeyi unutmayınız). Ekranlarda görülen mesajlar için bire bir metin kutularını algoritmalarıyla birlikte tasarlamayı unutmayınız. 
 d.	Tabbar view’ler ve metin kutuları arasındaki kontrollü geçişi sağlamayı unutmayınız. Bunun için Controller mantığını araştırın, irdeleyin ve uygulayınız.   
        
-![image](https://user-images.githubusercontent.com/5441882/116509261-aaa99500-a8cb-11eb-9581-18e1dc2b35dd.png)
-     
-![image](https://user-images.githubusercontent.com/5441882/116509276-b09f7600-a8cb-11eb-8aa7-b13c5a10a6f3.png)
+![image](https://user-images.githubusercontent.com/5441882/116512181-4a692200-a8d0-11eb-91ed-2258cfefd4e7.png)
 
-![image](https://user-images.githubusercontent.com/5441882/116509285-b301d000-a8cb-11eb-8460-ff66802f75a1.png)
+![image](https://user-images.githubusercontent.com/5441882/116512199-5228c680-a8d0-11eb-82b3-74a0f3e4e1c5.png)
 
-![image](https://user-images.githubusercontent.com/5441882/116509292-b5fcc080-a8cb-11eb-815f-f49e07650b26.png)       
+![image](https://user-images.githubusercontent.com/5441882/116512214-57861100-a8d0-11eb-9693-7a2570ba1b39.png)
+
+![image](https://user-images.githubusercontent.com/5441882/116512248-64a30000-a8d0-11eb-9dc1-1a43ba3852d1.png) 
        
        
 2. Yukarıdaki ekran tasarımları bittikten sonra ikinci aşamaya geçiniz. Kullanıcıdan veri girişlerini sağlayabilmek için sayısal bir klavye kullanmalısınız. Bu işlemlerin detayı şöyle;
